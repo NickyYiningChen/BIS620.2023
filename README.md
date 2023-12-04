@@ -41,4 +41,5 @@ accel |>
 
 ## Test-Coverage Report
 
-This is the link to the 
+Link to the [test coverage page](https://github.com/zqji0610/bis620.2023/actions/workflows/test-coverage.yaml).
+Link to the [R-CMD-check](https://github.com/zqji0610/bis620.2023/actions/workflows/R-CMD-check.yaml).
