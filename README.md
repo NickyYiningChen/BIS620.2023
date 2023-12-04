@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/Yukodeng/bis620.2023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Yukodeng/bis620.2023/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/zqji0610/bis620.2023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/zqji0610/bis620.2023/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of bis620.2023 is to …
