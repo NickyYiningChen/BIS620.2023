@@ -5,8 +5,8 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/zqji0610/bis620.2023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/zqji0610/bis620.2023/actions/workflows/R-CMD-check.yaml)
-[![test-coverage](https://github.com/zqji0610/bis620.2023/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/zqji0610/bis620.2023/actions/workflows/test-coverage.yaml)
+[![R-CMD-check](https://github.com/NickyYiningChen/bis620.2023/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/NickyYiningChen/bis620.2023/actions/workflows/R-CMD-check.yaml)
+[![test-coverage](https://github.com/NickyYiningChen/bis620.2023/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/NickyYiningChen/bis620.2023/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
 Author: Yufei Deng, Ziqing Ji, Yining Chen
@@ -39,7 +39,7 @@ You can install the development version of bis620.2023 from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("zqji0610/bis620.2023")
+devtools::install_github("NickyYiningChen/bis620.2023")
 ```
 
 ## Example
