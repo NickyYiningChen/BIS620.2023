@@ -7,7 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(vdiffr)
 library(bis620.2023)
 
 test_check("bis620.2023")
