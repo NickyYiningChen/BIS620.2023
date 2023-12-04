@@ -17,7 +17,7 @@ You can install the development version of bis620.2023 from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("Yukodeng/bis620.2023")
+devtools::install_github("zqji0610/bis620.2023")
 ```
 
 ## Example
