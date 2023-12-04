@@ -9,10 +9,27 @@
 [![test-coverage](https://github.com/zqji0610/bis620.2023/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/zqji0610/bis620.2023/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
-The goal of bis620.2023 is to allow users to query clinical trial studies, interact with the filtered data table, and visualize and customize graphs according to needs. To learn more information about the clinical trials, go to the website ClinicalTrials.gov. Users can filter the dataset by specific fields, including title keywords, study date ranges, sponsor types, conditions, study types, and intervention types. Users can also customize the visualizations by choosing different colors.
-
 Author: Yufei Deng, Ziqing Ji, Yining Chen
 
+The goal of bis620.2023 is to allow users to query clinical trial studies, interact with the filtered data table, and visualize and customize graphs according to needs. To learn more information about the clinical trials, go to the website ClinicalTrials.gov. 
+
+Package features:  
+Users can filter the dataset by specific fields, including:  
+1. Title keywords search
+2. Define study date ranges
+3. Define sponsor types
+4. Histogram visualization customization
+ 
+Displaying Visualization includes:  
+1. Phase Histogram
+2. Condition Histogram
+3. Primary Purpose Pie Chart
+4. Study Type Histogram
+5. Intervention Type Pie Chart
+6. Intervention Histogran Specified by Intervention Type
+
+Example output:
+![818571701727358_ pic](https://github.com/zqji0610/bis620.2023/assets/144503716/0d3a453f-d1e4-4685-b726-be9a74955670)
 
 
 ## Installation
